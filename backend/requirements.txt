@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+gunicorn
+numpy
+tensorflow
+pillow
+scipy
+python-multipart
+httpx
+
+
