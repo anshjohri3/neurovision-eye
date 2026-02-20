@@ -25,14 +25,14 @@ export default function Navbar() {
           <Link href="/">
             <div className="flex">
               <span className="block mr-1"></span>
-              {/* <Image 
-                src="/logo.png" 
+              { <Image 
+                src="/logo3.png" 
                 alt="Logo"
                 width="90"
                 height="75"
                 className="max-w-12 md:max-w-72 max-h-12 md:max-h-72"
                 >
-              </Image> */}
+              </Image> }
             </div>
             <span className="block ml-10"></span>
           </Link>
